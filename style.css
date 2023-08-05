@@ -1,0 +1,51 @@
+.nav{
+    align-items: center !important;
+    margin-left: 60px !important;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    margin-right: 120px !important;
+    align-items: center !important;
+}
+.wrap{
+    margin-top: 100px !important;
+}
+.font{
+    font-size: 70px !important;
+}
+.video{
+    width: 100% !important;
+}
+.ticket{
+    background-color: orangered !important;
+    padding: 15px 30px 15px 30px !important;
+    border-radius: 20px !important;
+    border: none;
+}
+
+.btn1{
+    background-color: orangered !important;
+    padding: 15px 30px 15px 30px !important;
+    border-radius: 20px !important;
+    border: none;
+    margin-top: 20px !important;
+}
+.my{
+    margin-top: 100px !important;
+}
+i{
+    color: white !important;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px !important;
+}
+.insta,
+.twit,
+.face{
+    background-color: orangered !important;
+}
